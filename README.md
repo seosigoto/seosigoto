@@ -9,7 +9,7 @@ Thank you. I'm Seo, have full experience in Ethereum Smart Contract development 
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
-- 🌱 I am confident in my skills of Solidity and Rust.<br>
+- 🌱 I am confident in my skills of Solidity.<br>
 - 📫 I hope I can help you, whenever you feel some difficulties.<br>
  
 **personal info:**
