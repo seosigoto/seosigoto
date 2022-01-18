@@ -1,7 +1,7 @@
-### Hi 👋, I'm [Seo, Sigoto](https://t.me/RuiSomsak)  
+### Hi, I'm [Seo, Sigoto](https://t.me/RuiSomsak)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Welcome+here+!;I+AM+A+BlockChain+DEVELOPER.;)](https://git.io/typing-svg)
 <br/>
-Thank you for your interest, I'm Seo, Smart Contract Engineer. I have full experience in Ethereum Smart Contract development including DEFI and NFT marketplace. Have been working in CS field for about 10 years and have full stack experience.
+Thank you. I'm Seo, have full experience in Ethereum Smart Contract development including DEFI and NFT. Have been working in CS field for about 10 years .
 <h5 align="center">👯I am Ready to make your dream true!👯</h5>
 <h5 align="center">🔥 Skills 🔥</h5>
 
