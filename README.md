@@ -28,7 +28,6 @@ Thank you. I'm Seo, have full experience in Ethereum Smart Contract development 
 - Smart Contract  
 - ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612
 - Solidity 
-- Metaplex (NFT marketplace)
 - Hardhat / Truffle / Openzeppelin
 - Web3.js / Ether.js 
 
