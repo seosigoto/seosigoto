@@ -15,8 +15,6 @@ Thank you. I'm Seo, have full experience in Ethereum Smart Contract development 
 **personal info:**
 - CrowdWorks TopClass level: [CrowdWorks](https://crowdworks.jp/public/employees/3768468)
 - Lancers profile: [Lancers](https://www.lancers.jp/profile/seo_sigoto)
-- Private Website: [Website](https://flowcv.me/seosigoto)
-- 💬 Telegram : [@RuiRuiss](https://t.me/RuiRuiss)
 - 📝 Email : seo.sigoto@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/seo-sigoto-8a063a204)
 - Phone Number: +81 70-1446-5680  
